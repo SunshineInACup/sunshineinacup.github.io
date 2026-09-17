@@ -1,0 +1,42 @@
+  .header {
+    background-color: #01678c;
+    padding: 20px;
+    border-radius: 0px;
+    text-align: center;
+  }
+  
+  a {
+    color: #3fc70a;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #ccd615;
+  }
+
+    .links {
+        background-color: #01678c;
+        padding: 20px;
+        border-radius: 0px;
+        text-align: center;
+    }
+
+    .investors {
+        background-color: #9ceee7;
+        padding: 75px;
+        border-radius: 0px;
+        text-align: center;
+    }
+
+    .investors h1 {
+        text-align: center;
+    }
+    .investors h2 {
+        text-align: center;
+    }
+    .investors img {
+        width: 300px;
+        vertical-align: middle;
+        float: right;
+    }
+
+    
