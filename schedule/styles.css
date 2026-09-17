@@ -1,0 +1,76 @@
+  .header {
+    background-color: #01678c;
+    padding: 20px;
+    border-radius: 0px;
+    text-align: center;
+  }
+  
+  a {
+    color: #3fc70a;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #ccd615;
+  }
+
+    .links {
+        background-color: #01678c;
+        padding: 20px;
+        border-radius: 0px;
+        text-align: center;
+    }
+
+    .investors {
+        background-color: #9ceee7;
+        padding: 75px;
+        border-radius: 0px;
+        text-align: center;
+    }
+
+    .investors h1 {
+        text-align: center;
+    }
+    .investors h2 {
+        text-align: center;
+    }
+    .investors img {
+        width: 300px;
+        vertical-align: middle;
+        float: right;
+    }
+
+    input {
+        width: 115px;
+    }
+
+    .parentBox {
+        background-color: #eaf3ac;
+        padding: 75px;
+        border-radius: 0px;
+        text-align: center;
+        display: flex; 
+        align-items: flex-start; 
+        height: 200px; 
+        border: 1px 
+        solid black;
+    }
+    .box {
+        background-color: #d3da80;
+        border-style: solid; 
+        border-width: 2px; 
+        border-color: #000000;
+    }
+    .box h2{
+        background-color: #f4ff78;
+        padding: 25px;
+        vertical-align: top;
+        align-items: flex-start;
+    }
+    .box p{
+        background-color: #f4ff78;
+        padding: 25px;
+        border-radius: 1px;
+        border-color: #000000;
+        text-align: center;
+        font-size: 20px;
+    }
